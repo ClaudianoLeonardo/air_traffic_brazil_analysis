@@ -40,6 +40,50 @@ c.draw()
 ### Análise bivariada:
 Essa análise foi realizada utilizando a correlação entre os graus dos nós, considerando o grau do nó e a medía dos graus dos vizinhos, para o Brasil e as suas regiões.
 
-**Brasil**
+**Brasil:**
 
 ![bv_br](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_br.png)
+
+```python
+degree_assortativity_coefficient = -0.19522933769365391
+```
+
+**Região norte:**
+
+![bv_nt](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_nt.png)
+
+```python
+degree_assortativity_coefficient = -0.2177920212034003
+```
+
+**Região Nordeste:**
+
+![bv_ndr](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_nrd.png)
+
+```python
+degree_assortativity_coefficient = -0.31740910282280993
+```
+
+**Região sudeste:**
+
+![bv_sds](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_sds.png)
+
+```python
+degree_assortativity_coefficient = -0.370867581172046
+```
+
+**Região sul:**
+
+![bv_sl](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_sl.png)
+
+```python
+degree_assortativity_coefficient = -0.3586586878829849
+```
+
+**Região centro-oeste:**
+
+![bv_cdo](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/bv_cdo.png)
+
+```python
+degree_assortativity_coefficient = -0.35656661170467585
+```
