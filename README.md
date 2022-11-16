@@ -138,7 +138,7 @@ Manaus(Norte) -> Porto alegre(Sul) = ['SBEG', 'SBPA']
  ```
  
  ## Conclusões:
- As conclusões e comentários para essas análises estão disponíveis no notebook do [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb)
+ As conclusões e comentários para essas análises encontram-se disponível no notebook do [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb)
  
  ## Como executar:
  Para executar esse projeto basta seguir os passos descritos nos arquivos [data](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/data.ipynb) e [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb), o primeiro para obter o arquivo da base dados e o segundo para executar os passos da análise.
