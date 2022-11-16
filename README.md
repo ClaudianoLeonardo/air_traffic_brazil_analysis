@@ -87,3 +87,26 @@ degree_assortativity_coefficient = -0.3586586878829849
 ```python
 degree_assortativity_coefficient = -0.35656661170467585
 ```
+
+### Aplicação do conceito de caminho mais curto
+Para essa análise foi selecionada uma cidade de cada região e avaliado mais curto entre elas na seguinte ordem: 
+Manaus(Norte) -> Porto alegre(Sul) -> Salvador(Nordeste) -> Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste)
+
+```md
+Manaus(Norte) -> Porto alegre(Sul) = []
+```
+```md
+ Porto alegre(Sul) -> Salvador(Nordeste) = []
+ ```
+ ```md
+ Salvador(Nordeste) -> Belo horizonte(Centro-oeste) = []
+ ```
+ ```md
+ Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste) = []
+ ```
+ 
+ ### Estudo do coeficente de clustering:
+ 
+ 
+ 
+
