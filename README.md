@@ -105,7 +105,54 @@ Manaus(Norte) -> Porto alegre(Sul) = ['SBEG', 'SBPA']
  Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste) = ['SBCF', 'SBRJ']
  ```
  
- ### Estudo do coeficente de clustering:
+ ### Estudo do coeficiente de clustering:
+ O coeficiente de clustering mede o quão próximo está um nó ou uma rede de uma topologia estrela , isto é se os elementos de uma rede ego estão conectados entre si.    Caso o coeficiente de clustering seja 1, ele possui uma topologia estrela, todos os elementos da rede ego estão conectados entre si
+ 
+ **Brasil:**
+ ```python
+ coeficiente_clustering = 0.6310139004172535
+ ```
+ **Norte:**
+ ```python
+ coeficiente_clustering = 0.6124990658608361
+ ```
+ 
+ **Nordeste:**
+ ```python
+ coeficiente_clustering = 0.4719877188787716
+ ```
+ 
+ **Sudeste:**
+ ```python
+ coeficiente_clustering = 0.6175309816849806
+ ```
+ 
+ **Centro-oeste:**
+ ```python
+ coeficiente_clustering = 0.5511670869789284
+ ```
+ 
+ **Sul:**
+ ```python
+ coeficiente_clustering = 0.5968552724314078
+ ```
+ 
+ ## Conclusões:
+ As conclusões e comentários para essas analises estão no [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb)
+ 
+ ## Como executar:
+ Para executar esse projeto basta seguir os passos descritos nos arquivos [data](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/data.ipynb) e [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb), o primeiro para obter o arquivo da base dados e segundo para os passos da análise.
+ 
+## Discentes participantes do projeto:
+  
+  [Claudiano Leonardo da Silva](https://github.com/ClaudianoLeonardo)
+  
+  [David Willian Pereira Jatobá](https://github.com/DavidWillian7)
+  
+## Referências:
+[datastructure](https://github.com/ivanovitchm/datastructure)
+[github.com/alvarofpp/dataset-flights-brazil](https://github.com/alvarofpp/dataset-flights-brazil)
+
  
  
  
