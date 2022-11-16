@@ -38,7 +38,7 @@ c.draw()
 ![Circus plot](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/images/Circus_plot.png)
 
 ### Análise bivariada:
-Essa análise foi realizada utilizando a correlação entre os graus dos nós, considerando o grau do nó e a medía dos graus dos vizinhos, para o Brasil e as suas regiões.
+Essa análise foi realizada utilizando a correlação entre os graus dos nós, considerando o grau do nó e a média dos graus dos vizinhos, para o Brasil e as suas regiões.
 
 **Brasil:**
 
