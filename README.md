@@ -93,16 +93,16 @@ Para essa análise foi selecionada uma cidade de cada região e avaliado o camin
 Manaus(Norte) -> Porto alegre(Sul) -> Salvador(Nordeste) -> Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste)
 
 ```md
-Manaus(Norte) -> Porto alegre(Sul) = []
+Manaus(Norte) -> Porto alegre(Sul) = ['SBEG', 'SBPA']
 ```
 ```md
- Porto alegre(Sul) -> Salvador(Nordeste) = []
+ Porto alegre(Sul) -> Salvador(Nordeste) = ['SBPA', 'SBSV']
  ```
  ```md
- Salvador(Nordeste) -> Belo horizonte(Centro-oeste) = []
+ Salvador(Nordeste) -> Belo horizonte(Centro-oeste) = ['SBSV', 'SBCF']
  ```
  ```md
- Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste) = []
+ Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste) = ['SBCF', 'SBRJ']
  ```
  
  ### Estudo do coeficente de clustering:
