@@ -89,7 +89,7 @@ degree_assortativity_coefficient = -0.35656661170467585
 ```
 
 ### Aplicação do conceito de caminho mais curto
-Para essa análise foi selecionada uma cidade de cada região e avaliado mais curto entre elas na seguinte ordem: 
+Para essa análise foi selecionada uma cidade de cada região e avaliado o caminho mais curto entre elas na seguinte ordem: 
 Manaus(Norte) -> Porto alegre(Sul) -> Salvador(Nordeste) -> Belo horizonte(Centro-oeste) -> Rio de Janeiro(Sudeste)
 
 ```md
