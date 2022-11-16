@@ -1,7 +1,7 @@
 # Air traffic Brazil analysis
 
 ## Sobre o projeto:
-Esse projeto faz parte da avaliação da disciplina [DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II](https://github.com/ivanovitchm/datastructure), tem como objetivo analisar algumas caracteristas do tráfego aéreo brasileiro e seus aeroportos, aplicando conceitos de análise de redes. Base de dados utilizada: (https://github.com/alvarofpp/dataset-flights-brazil)
+Esse projeto faz parte da avaliação da disciplina [DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II](https://github.com/ivanovitchm/datastructure), tem como objetivo analisar algumas caracteristas do tráfego aéreo brasileiro e seus aeroportos, aplicando conceitos de análise de redes. Base de dados utilizada: https://github.com/alvarofpp/dataset-flights-brazil
 
 ## Descrição do projeto:
 Para esse projeto foram implentados 4 requisitos:
@@ -138,10 +138,10 @@ Manaus(Norte) -> Porto alegre(Sul) = ['SBEG', 'SBPA']
  ```
  
  ## Conclusões:
- As conclusões e comentários para essas analises estão no [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb)
+ As conclusões e comentários para essas análises estão disponíveis no notebook do [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb)
  
  ## Como executar:
- Para executar esse projeto basta seguir os passos descritos nos arquivos [data](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/data.ipynb) e [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb), o primeiro para obter o arquivo da base dados e segundo para os passos da análise.
+ Para executar esse projeto basta seguir os passos descritos nos arquivos [data](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/data.ipynb) e [projeto](https://github.com/ClaudianoLeonardo/air_traffic_brazil_analysis/blob/main/ProjectUnit2.ipynb), o primeiro para obter o arquivo da base dados e o segundo para executar os passos da análise.
  
 ## Discentes participantes do projeto:
   
@@ -151,6 +151,7 @@ Manaus(Norte) -> Porto alegre(Sul) = ['SBEG', 'SBPA']
   
 ## Referências:
 [datastructure](https://github.com/ivanovitchm/datastructure)
+
 [github.com/alvarofpp/dataset-flights-brazil](https://github.com/alvarofpp/dataset-flights-brazil)
 
  
